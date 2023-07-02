@@ -13,3 +13,5 @@ Complemento que van para el Backend:
 * pip install djangorestframework
 * pip install django-cors-headers
 * pip install coreapi
+
+Con el comando python manage.py runserver inicializa el servidor local por el puerto 8000
