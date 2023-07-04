@@ -15,3 +15,10 @@ Complemento que van para el Backend:
 * pip install coreapi
 
 Con el comando python manage.py runserver inicializa el servidor local por el puerto 8000
+
+# Front_Python_Apirest
+
+# Paquete a instalar
+* npm install
+# Inicializar
+* npm run dev
